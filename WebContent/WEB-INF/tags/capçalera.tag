@@ -1,0 +1,1 @@
+<div class="imgContainer"><img id="cabeceraimg" style="width: 100%; background-color: #91a68a" src="img/cabecera.jpg"/></div>
